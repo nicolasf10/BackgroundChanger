@@ -10,7 +10,7 @@ import shutil
 #######################
 
 # Unsplash Application Key
-api_access_key = '7c9vPplgXGgJfx4IRZisPMjHX4MCqxTxXHU2h6t978A'
+api_access_key = 'application key here'
 
 # Setting the filepath for this file (already inside this directory)
 filepath = 'tmp/background.jpeg'
