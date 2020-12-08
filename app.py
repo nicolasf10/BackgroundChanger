@@ -24,9 +24,6 @@ set desktop picture to POSIX file "%s"
 end tell
 END"""
 
-terminal_script = """osascript -e 'tell application "Finder" to set desktop picture to POSIX file "/Users/nicolasfuchs/Desktop/backgroundImage/tmp/background.jpeg"'"""
-
-
 # Using Unsplash API to grab random image from Unsplash
 url = 'https://api.unsplash.com/photos/random?client_id=' + api_access_key
 
